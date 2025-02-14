@@ -1,6 +1,12 @@
-# Ansh & Riley Full-Stack Template
+# Rollout - AI-Powered Content Platform
 
-This is a full-stack template project for Software Composers to create  applications with AI.
+A powerful platform for transforming and optimizing content across multiple social media platforms using AI.
+
+## Features
+- Multi-Format Support for videos, articles, PDFs, and more
+- AI-powered content creation and optimization
+- Rich media generation with custom visuals
+- Cross-platform content optimization
 
 ## Getting started
 To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
@@ -8,7 +14,6 @@ To create a new project, you go to `/paths`, choose from our list of Paths, and 
 You can also edit the Path's prompt template to be whatever you like!
 
 ## Technologies used
-This doesn't really matter, but is useful for the AI to understand more about this project. We are using the following technologies
 - React with Next.js 14 App Router
 - TailwindCSS
 - Firebase Auth, Storage, and Database

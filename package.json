@@ -1,5 +1,5 @@
 {
-  "name": "template-2",
+  "name": "rollout",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,11 +15,12 @@
     "ai": "^3.3.20",
     "date-fns": "^3.6.0",
     "firebase": "^10.13.0",
-    "framer-motion": "^11.3.31",
+    "framer-motion": "^11.18.2",
     "lucide-react": "^0.436.0",
     "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18",
+    "react-icons": "^5.4.0",
     "react-markdown": "^9.0.1",
     "replicate": "^0.32.0"
   },
