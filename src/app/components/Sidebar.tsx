@@ -79,11 +79,6 @@ export default function Sidebar() {
               );
             })}
           </nav>
-          <div className="pt-8 pb-4">
-            <div className="text-xs text-gray-500 dark:text-gray-400 text-center">
-              Press ESC to close
-            </div>
-          </div>
         </div>
       </motion.div>
     </div>
